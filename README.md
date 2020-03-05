@@ -222,6 +222,6 @@ Hematoma Layered Contour Projection for Endoscopic evacuation of cerebral hemorr
 <h4>
 <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487285&amp;idx=1&amp;sn=739933048b8bc15aca30180b4f1b95b9&amp;chksm=eacc0507ddbb8c117291363c9fc92a82e4b356fa47545f267103643c4cd8e98095065051f51a#rd" rel="nofollow noopener">97.Spatial Dimensions 漫谈空间维度与信息 </a>束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487310&amp;idx=1&amp;sn=63b54ee1a4e7fe744c538a4f5619aea7&amp;chksm=eacc057cddbb8c6a6a5a16dbb0d0e2d9192993a21c055130c2c6836ffaa086eafc02f9400683#rd" rel="nofollow noopener">98. First experience with SlicerVR SlicerVR初体验 </a>束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487310&amp;idx=1&amp;sn=63b54ee1a4e7fe744c538a4f5619aea7&amp;chksm=eacc057cddbb8c6a6a5a16dbb0d0e2d9192993a21c055130c2c6836ffaa086eafc02f9400683#rd" rel="nofollow noopener">98. SlicerVR: First experience with Virtual Reality SlicerVR初体验 </a>束旭俊</h4>
 <h4>
-  <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487343&amp;idx=1&amp;sn=63f67985fdcb79412804ceb9ddc23e78&amp;chksm=eacc055dddbb8c4b873ce04ff0dceee07171aeaeb169922396916c4b52712b8ec781a6aaad62#rd" rel="nofollow noopener">99. Slicer Augmented Reality Slicer+AR：人人都能做的AR </a>束旭俊</h4>
+  <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487343&amp;idx=1&amp;sn=63f67985fdcb79412804ceb9ddc23e78&amp;chksm=eacc055dddbb8c4b873ce04ff0dceee07171aeaeb169922396916c4b52712b8ec781a6aaad62#rd" rel="nofollow noopener">99. SlicerAR: Augmented Reality in Slicer Slicer+AR：人人都能做的AR </a>束旭俊</h4>
