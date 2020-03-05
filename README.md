@@ -34,35 +34,41 @@
 <h4>
 <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484258&amp;idx=1&amp;sn=410c7773f1d71c176476211a65147e4f&amp;chksm=eacc0950ddbb80469d2833599485a6711cb9cefcbb0dc4641df8bf0324743e10915d85c8b5cf#rd" rel="nofollow noopener">18. 手机App辅助颅内幕上病变的定位方法（进化版） </a> 束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484277&amp;idx=1&amp;sn=389d91b15ff3999db6de12c40ed5b951&amp;chksm=eacc0947ddbb80516e78eb2ebec9dbf2bc8ccd512c2987c7063e4ea05ef387249c70dde2e3f8#rd" rel="nofollow noopener">19. 3DSlicer教程之去除背板（三） </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484277&amp;idx=1&amp;sn=389d91b15ff3999db6de12c40ed5b951&amp;chksm=eacc0947ddbb80516e78eb2ebec9dbf2bc8ccd512c2987c7063e4ea05ef387249c70dde2e3f8#rd" rel="nofollow noopener">19. Volume Cropping (Part 3) 3DSlicer教程之去除背板（三） </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484308&amp;idx=1&amp;sn=572cc8775da6c439fe2d0eef4c26da8c&amp;chksm=eacc09a6ddbb80b0ddb2bcef9291661251458b43f34cada171997d772161a072588215977827#rd" rel="nofollow noopener">20. 3DSlicer硬膜外血肿术前计划 </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484308&amp;idx=1&amp;sn=572cc8775da6c439fe2d0eef4c26da8c&amp;chksm=eacc09a6ddbb80b0ddb2bcef9291661251458b43f34cada171997d772161a072588215977827#rd" rel="nofollow noopener">20. 
+Preoperative planning of Epidural Hematoma 3DSlicer硬膜外血肿术前计划 </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484348&amp;idx=1&amp;sn=241d64b58c1c66e1e45e9bbc186e132e&amp;chksm=eacc098eddbb80983a6f0a4e7d7377004c64ed78885dffeebfe0c08e04c64a4456e26d251bb0#rd" rel="nofollow noopener">21. 3DSlicer入门解惑篇——你想知道的都在这里 </a> 束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484348&amp;idx=1&amp;sn=241d64b58c1c66e1e45e9bbc186e132e&amp;chksm=eacc098eddbb80983a6f0a4e7d7377004c64ed78885dffeebfe0c08e04c64a4456e26d251bb0#rd" rel="nofollow noopener">21. 3DSlicer Introduction 3DSlicer入门解惑篇——你想知道的都在这里 </a> 束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484373&amp;idx=1&amp;sn=678988217e7fd95ed32a803e6ae85e77&amp;chksm=eacc09e7ddbb80f13c4e17ffb06fc032c30fe1205f4570b89320367ccdc5705ed7ad258da01c#rd" rel="nofollow noopener">22. 3DSlicer之OM基线调整 </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484373&amp;idx=1&amp;sn=678988217e7fd95ed32a803e6ae85e77&amp;chksm=eacc09e7ddbb80f13c4e17ffb06fc032c30fe1205f4570b89320367ccdc5705ed7ad258da01c#rd" rel="nofollow noopener">22. OM baseline definition for puncture aspiration of hematoma 3DSlicer之OM基线调整 </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484397&amp;idx=1&amp;sn=49b7e47f4a417eb9d8dbac73e8841fa4&amp;chksm=eacc09dfddbb80c92e4f948313301ba0a8c6435141e9041b0da9de33287f83c6b3eb22f330ae#rd" rel="nofollow noopener">23. 3DSlicer教程之去除背板（四） </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484397&amp;idx=1&amp;sn=49b7e47f4a417eb9d8dbac73e8841fa4&amp;chksm=eacc09dfddbb80c92e4f948313301ba0a8c6435141e9041b0da9de33287f83c6b3eb22f330ae#rd" rel="nofollow noopener">23. Volume Cropping (Part 4) 3DSlicer教程之去除背板（四） </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484440&amp;idx=1&amp;sn=de9bb15a04b5257d6bd385f4bbfd7e6a&amp;chksm=eacc0e2addbb873c18cbb677a0ffaaf2057ed3d566be0293b9405a2381aa3e29d41d01919e8c#rd" rel="nofollow noopener">24. 3DSlicer教程之去除背板（五） </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484440&amp;idx=1&amp;sn=de9bb15a04b5257d6bd385f4bbfd7e6a&amp;chksm=eacc0e2addbb873c18cbb677a0ffaaf2057ed3d566be0293b9405a2381aa3e29d41d01919e8c#rd" rel="nofollow noopener">24. Volume Cropping (Part 5) 3DSlicer教程之去除背板（五） </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484473&amp;idx=1&amp;sn=8e1364d8481d7d752ecc2b843662b348&amp;chksm=eacc0e0bddbb871d78253d5cd7d21caf62f8bc449a0fe202a4b6ffda5787ddd5aedc7e6d203b#rd" rel="nofollow noopener">25. 3D Slicer 增强现实体表投影在脑出血穿刺引流中的应用 </a> 姜亦坤</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484473&amp;idx=1&amp;sn=8e1364d8481d7d752ecc2b843662b348&amp;chksm=eacc0e0bddbb871d78253d5cd7d21caf62f8bc449a0fe202a4b6ffda5787ddd5aedc7e6d203b#rd" rel="nofollow noopener">25. 
+Application of 3D Slicer Augmented Reality Surface Projection in Cerebral Hemorrhage Puncture and Drainage 3D Slicer 增强现实体表投影在脑出血穿刺引流中的应用 </a> 姜亦坤</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484518&amp;idx=1&amp;sn=bdc727a413b88b7f1d1eb3a530a0c7bf&amp;chksm=eacc0e54ddbb8742ce048c383b918e0ad972f72ba74c74d171c1a693811435299d250fbd305c#rd" rel="nofollow noopener">26. 运用3D slicer 对1例立体定向左侧基底节血肿抽吸手术的效果评价 </a> 李升</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484518&amp;idx=1&amp;sn=bdc727a413b88b7f1d1eb3a530a0c7bf&amp;chksm=eacc0e54ddbb8742ce048c383b918e0ad972f72ba74c74d171c1a693811435299d250fbd305c#rd" rel="nofollow noopener">26. 
+Evaluation of the effect of stereotactic left basal ganglia hematoma aspiration using 3D slicer 运用3D slicer 对1例立体定向左侧基底节血肿抽吸手术的效果评价 </a> 李升</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484533&amp;idx=1&amp;sn=1ced081e6bdb398c84104bdad9c46f8d&amp;chksm=eacc0e47ddbb875128f1696ac074fa52d03e0647b078974e393a150e893649c80b312058891f#rd" rel="nofollow noopener">27. 3D Slicer联合神经电生理监测在前交通动脉瘤夹闭术中的应用 </a> 罗帷</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484533&amp;idx=1&amp;sn=1ced081e6bdb398c84104bdad9c46f8d&amp;chksm=eacc0e47ddbb875128f1696ac074fa52d03e0647b078974e393a150e893649c80b312058891f#rd" rel="nofollow noopener">27. 
+Application of 3D Slicer combined with neuroelectrophysiology monitoring for anterior circulation aneurysm clipping 3D Slicer联合神经电生理监测在前交通动脉瘤夹闭术中的应用 </a> 罗帷</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484546&amp;idx=1&amp;sn=ff7e3c9e5265ada807e6a6aea75cc814&amp;chksm=eacc0eb0ddbb87a696cffd420e075110f1b809a27e564f3b27c655294e4e1b07fa1966bf5500#rd" rel="nofollow noopener">28. 利用3D-Slicer校准畸变图像 </a> 王奎重</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484546&amp;idx=1&amp;sn=ff7e3c9e5265ada807e6a6aea75cc814&amp;chksm=eacc0eb0ddbb87a696cffd420e075110f1b809a27e564f3b27c655294e4e1b07fa1966bf5500#rd" rel="nofollow noopener">28. 
+Calibrating Distorted Images 利用3D-Slicer校准畸变图像 </a> 王奎重</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484598&amp;idx=1&amp;sn=e8eb2d4ed94e3a15d78cb43b7ecd007c&amp;chksm=eacc0e84ddbb87923241b38e68bd4275610f68e6f64f14276b6522a3633bd27a6f17e233c2df#rd" rel="nofollow noopener">29. 3D打印穿刺导板的设计 </a> 杨立志</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484598&amp;idx=1&amp;sn=e8eb2d4ed94e3a15d78cb43b7ecd007c&amp;chksm=eacc0e84ddbb87923241b38e68bd4275610f68e6f64f14276b6522a3633bd27a6f17e233c2df#rd" rel="nofollow noopener">29. 
+Puncture guide 3D打印穿刺导板的设计 </a> 杨立志</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484638&amp;idx=1&amp;sn=acd75abf866c02c4091e5cbbee38b4ce&amp;chksm=eacc0eecddbb87fa85a539273bc924a9b38a792a2e464adb565fbd733bd8580d24f1c9728a35#rd" rel="nofollow noopener">30. 利用3D Slicer软件制作穿刺导航管3D打印模件 </a> 赵端允</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484638&amp;idx=1&amp;sn=acd75abf866c02c4091e5cbbee38b4ce&amp;chksm=eacc0eecddbb87fa85a539273bc924a9b38a792a2e464adb565fbd733bd8580d24f1c9728a35#rd" rel="nofollow noopener">30. Intracranial hematoma puncture guide  利用3D Slicer软件制作穿刺导航管3D打印模件 </a> 赵端允</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484677&amp;idx=1&amp;sn=ab3f2ea2d1bb9ddbd47d9010aac8f858&amp;chksm=eacc0f37ddbb86214501cabb1bd340d0f95a6d66b8674cf62b0eb9ad4e3d799368ff76bec653#rd" rel="nofollow noopener">31. 体表曲线的测量——Curve Maker模块教程 </a> 束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484677&amp;idx=1&amp;sn=ab3f2ea2d1bb9ddbd47d9010aac8f858&amp;chksm=eacc0f37ddbb86214501cabb1bd340d0f95a6d66b8674cf62b0eb9ad4e3d799368ff76bec653#rd" rel="nofollow noopener">31. Curve Maker Module 体表曲线的测量——Curve Maker模块教程 </a> 束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484729&amp;idx=1&amp;sn=860e0925a4799d51ecaefbc9ddcc0d4c&amp;chksm=eacc0f0bddbb861d5289dc216963618ff224c8f54172e169631e75751999f0a3b2bfec0a61ff#rd" rel="nofollow noopener">32. 大脑前动脉远端动脉瘤手术夹闭治疗（一） </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484729&amp;idx=1&amp;sn=860e0925a4799d51ecaefbc9ddcc0d4c&amp;chksm=eacc0f0bddbb861d5289dc216963618ff224c8f54172e169631e75751999f0a3b2bfec0a61ff#rd" rel="nofollow noopener">32. Surgical clamping of distal anterior cerebral artery aneurysm - Part 1  大脑前动脉远端动脉瘤手术夹闭治疗（一） </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484787&amp;idx=1&amp;sn=1f6279bdccab168fc79b7275e9fe91ca&amp;chksm=eacc0f41ddbb8657be92f617661133d87bb55a4ecf12f786e97a8b7d5249a05d11e0cd620c3f#rd" rel="nofollow noopener">33. 大脑前动脉远端动脉瘤手术夹闭治疗（二） </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484787&amp;idx=1&amp;sn=1f6279bdccab168fc79b7275e9fe91ca&amp;chksm=eacc0f41ddbb8657be92f617661133d87bb55a4ecf12f786e97a8b7d5249a05d11e0cd620c3f#rd" rel="nofollow noopener">33.Surgical clamping of distal anterior cerebral artery aneurysm - Part 2 大脑前动脉远端动脉瘤手术夹闭治疗（二） </a> 曹玉福</h4>
 <h4>
 <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484810&amp;idx=1&amp;sn=98d9c81488b205cf13229905175a0665&amp;chksm=eacc0fb8ddbb86ae9433685d2bfc909627d4f80e1a24ff07ea3b0fc5de778e41fed4d37d5069#rd" rel="nofollow noopener">34. 利用3D Slicer自动剥离CT或MRI影像上的头皮和颅骨 </a> 王奎重</h4>
 <h4>
