@@ -153,62 +153,75 @@ Application of Slicer-based CTVE Technology in Three-dimensional Anatomical Stru
 <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486736&amp;idx=1&amp;sn=0f1ee47356a07ef1ccfe0d04c8c908ed&amp;chksm=eacc0722ddbb8e34a3f51fdcce659452f37906bc16bedae9458ebbf0d803a428ab4282a912a1#rd" rel="nofollow noopener">69. 
 Multimodal data fusion for meningiomas resection 3DSlicer多模态融合辅助脑膜瘤切除1例 </a>赵鹏</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486773&amp;idx=1&amp;sn=11eb5ec03dd9c8d72584f4105d21ec67&amp;chksm=eacc0707ddbb8e111d576969af6c04719f2479ad76fea4818ff4a500492699455f76abb854d1#rd" rel="nofollow noopener">70. 3D Slicer在卵圆孔穿刺中的应用 </a>霍贵通</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486773&amp;idx=1&amp;sn=11eb5ec03dd9c8d72584f4105d21ec67&amp;chksm=eacc0707ddbb8e111d576969af6c04719f2479ad76fea4818ff4a500492699455f76abb854d1#rd" rel="nofollow noopener">70. Surgical planning of foramen ovale puncture 3D Slicer在卵圆孔穿刺中的应用 </a>霍贵通</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486799&amp;idx=1&amp;sn=4ff1d0f897c4be2fb215cf918d85a284&amp;chksm=eacc077dddbb8e6bdb4bb689546dbb3a10799e5a240315a4225eeccce7ed97812931911836ec#rd" rel="nofollow noopener">71. 一例肺动脉栓塞三维影像 </a>李东群</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486799&amp;idx=1&amp;sn=4ff1d0f897c4be2fb215cf918d85a284&amp;chksm=eacc077dddbb8e6bdb4bb689546dbb3a10799e5a240315a4225eeccce7ed97812931911836ec#rd" rel="nofollow noopener">71. 
+Three-dimensional reconstructino of a pulmonary embolism 一例肺动脉栓塞三维影像 </a>李东群</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486848&amp;idx=1&amp;sn=9a8adc3f9f37eb5496ddc54dad435526&amp;chksm=eacc07b2ddbb8ea4e441cd41374b6e0ebc47ee562b6f916e94e5cf4de5592741ddf934619df3#rd" rel="nofollow noopener">72. 3D Slicer在肾肿瘤中的应用</a>赵伟</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486848&amp;idx=1&amp;sn=9a8adc3f9f37eb5496ddc54dad435526&amp;chksm=eacc07b2ddbb8ea4e441cd41374b6e0ebc47ee562b6f916e94e5cf4de5592741ddf934619df3#rd" rel="nofollow noopener">72. Application of 3D Slicer in Renal Tumors 3D Slicer在肾肿瘤中的应用</a>赵伟</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486888&amp;idx=1&amp;sn=8b83f3eb773106d9318878ce2f4ed658&amp;chksm=eacc079addbb8e8ca23a2e71274ec0427584db13bd9cc904d86a731ed2a90e99d2df9d6dd1f5#rd" rel="nofollow noopener">73. 基于CTA重建的动静脉畸形（AVM）三维影像 </a>束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486888&amp;idx=1&amp;sn=8b83f3eb773106d9318878ce2f4ed658&amp;chksm=eacc079addbb8e8ca23a2e71274ec0427584db13bd9cc904d86a731ed2a90e99d2df9d6dd1f5#rd" rel="nofollow noopener">73.
+Three-dimensional image of arteriovenous malformation (AVM) based on CTA reconstruction  基于CTA重建的动静脉畸形（AVM）三维影像 </a>束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486934&amp;idx=1&amp;sn=4f572f74ced9bb598fb2ceba5e95401c&amp;chksm=eacc07e4ddbb8ef2e86a69a8a1fef53c414998d4ab141213a3b0a475c5767c0240e89daf04ba#rd" rel="nofollow noopener">74. 内镜辅助脑室血肿清除术</a>霍贵通</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486934&amp;idx=1&amp;sn=4f572f74ced9bb598fb2ceba5e95401c&amp;chksm=eacc07e4ddbb8ef2e86a69a8a1fef53c414998d4ab141213a3b0a475c5767c0240e89daf04ba#rd" rel="nofollow noopener">74. 
+Endoscopic evacuation of ventricular hematoma 内镜辅助脑室血肿清除术</a>霍贵通</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486941&amp;idx=1&amp;sn=7cf9f75845a95ecd4e8e3b1acfaf4528&amp;chksm=eacc07efddbb8ef971497f6806aef369c8a8d9465919a160b1fd83f4036e679df1851e3ef382#rd" rel="nofollow noopener">75. 脑室系统解剖（二） </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486941&amp;idx=1&amp;sn=7cf9f75845a95ecd4e8e3b1acfaf4528&amp;chksm=eacc07efddbb8ef971497f6806aef369c8a8d9465919a160b1fd83f4036e679df1851e3ef382#rd" rel="nofollow noopener">75.Ventricular System Anatomy 脑室系统解剖（二） </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486973&amp;idx=1&amp;sn=d6c84fd75cd9bc21dfa96d8c2fad22ec&amp;chksm=eacc07cfddbb8ed94efaa6ee566aa8660c7236f248f61564e50fe8286218b1be0ce98a644a6c#rd" rel="nofollow noopener">76. 面肌痉挛（HFS）&amp; 显微血管减压术（MVD） </a>王文鑫</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486973&amp;idx=1&amp;sn=d6c84fd75cd9bc21dfa96d8c2fad22ec&amp;chksm=eacc07cfddbb8ed94efaa6ee566aa8660c7236f248f61564e50fe8286218b1be0ce98a644a6c#rd" rel="nofollow noopener">76. Microvascular decompression for facial spasm 面肌痉挛（HFS）&amp; 显微血管减压术（MVD） </a>王文鑫</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487004&amp;idx=1&amp;sn=fae9940111b3f200a7a690258637111c&amp;chksm=eacc042eddbb8d387c77909ab220dbb88f90eccc9b86331cb4c862864447399b10e7afc6a8fb#rd" rel="nofollow noopener">77. 一招鉴别动脉瘤还是动脉壶腹样扩张 </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487004&amp;idx=1&amp;sn=fae9940111b3f200a7a690258637111c&amp;chksm=eacc042eddbb8d387c77909ab220dbb88f90eccc9b86331cb4c862864447399b10e7afc6a8fb#rd" rel="nofollow noopener">77.
+Identification of aneurysms and arterial dilatations  一招鉴别动脉瘤还是动脉壶腹样扩张 </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487032&amp;idx=1&amp;sn=732268e3b7542dfc21640dc17b39fe56&amp;chksm=eacc040addbb8d1cf0671f3e7eca1974709ad05d58d723e37b8af0e79b28558af4b9824b03ad#rd" rel="nofollow noopener">78. DTI教程01-DTI简介及软件安装 </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487032&amp;idx=1&amp;sn=732268e3b7542dfc21640dc17b39fe56&amp;chksm=eacc040addbb8d1cf0671f3e7eca1974709ad05d58d723e37b8af0e79b28558af4b9824b03ad#rd" rel="nofollow noopener">78. 
+DTI Tutorial 01-DTI Introduction and Software Installation DTI教程01-DTI简介及软件安装 </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487038&amp;idx=1&amp;sn=1e6e9ee094c3e88ad44dc0a6c8e2318a&amp;chksm=eacc040cddbb8d1a76585792b62f99d37c73bda039c1509c1ef55e98d0b458cf69c3cefd8c7f#rd" rel="nofollow noopener">79. DTI教程02-数据转换初阶 </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487038&amp;idx=1&amp;sn=1e6e9ee094c3e88ad44dc0a6c8e2318a&amp;chksm=eacc040cddbb8d1a76585792b62f99d37c73bda039c1509c1ef55e98d0b458cf69c3cefd8c7f#rd" rel="nofollow noopener">79. DTI Tutorial 02 - Data Conversion (Basics) DTI教程02-数据转换初阶 </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487052&amp;idx=1&amp;sn=a78ac37fa457de0f5a1dc478394548d1&amp;chksm=eacc047eddbb8d681d225bd329655514ea7822b67e7671dfa451d9d7e2cce257e081a6068ef6#rd" rel="nofollow noopener">80. DTI教程03-数据转换中阶 </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487052&amp;idx=1&amp;sn=a78ac37fa457de0f5a1dc478394548d1&amp;chksm=eacc047eddbb8d681d225bd329655514ea7822b67e7671dfa451d9d7e2cce257e081a6068ef6#rd" rel="nofollow noopener">80. DTI Tutorial 03 - Data Conversion (Intermediate) DTI教程03-数据转换中阶 </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487067&amp;idx=1&amp;sn=9d90e797157ae443918f3375c0448b81&amp;chksm=eacc0469ddbb8d7fa9908d5ddca8912ad3c382c54364be056f73ccbcaa64c41c82208ca0a80a#rd" rel="nofollow noopener">81. DTI教程04-数据转换高阶 </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487067&amp;idx=1&amp;sn=9d90e797157ae443918f3375c0448b81&amp;chksm=eacc0469ddbb8d7fa9908d5ddca8912ad3c382c54364be056f73ccbcaa64c41c82208ca0a80a#rd" rel="nofollow noopener">81. DTI Tutorial 04 - Data Conversion (Advanced) DTI教程04-数据转换高阶 </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487109&amp;idx=1&amp;sn=68cd5a5261be75562550cc5fc580a463&amp;chksm=eacc04b7ddbb8da15e9879c2e870caa9c9bc6b3f48a55f6d7a782e2e06fe5cea8a7b3c6eece7#rd" rel="nofollow noopener">82. DTI教程05-DWI数据加载 </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487109&amp;idx=1&amp;sn=68cd5a5261be75562550cc5fc580a463&amp;chksm=eacc04b7ddbb8da15e9879c2e870caa9c9bc6b3f48a55f6d7a782e2e06fe5cea8a7b3c6eece7#rd" rel="nofollow noopener">82. 
+DTI Tutorial 05-DWI Data Loading DTI教程05-DWI数据加载 </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487116&amp;idx=1&amp;sn=4ce37666b5c969dab759aa5d470918fb&amp;chksm=eacc04beddbb8da82752cc44652d62bb97f8471a3a3d8c569100ad56487c1b3712f033267c46#rd" rel="nofollow noopener">83. DTI教程06-大脑掩模（Brain Mask） </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487116&amp;idx=1&amp;sn=4ce37666b5c969dab759aa5d470918fb&amp;chksm=eacc04beddbb8da82752cc44652d62bb97f8471a3a3d8c569100ad56487c1b3712f033267c46#rd" rel="nofollow noopener">83. DTI Tutorial 06-Brain Mask DTI教程06-大脑掩模（Brain Mask） </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487120&amp;idx=1&amp;sn=1a66160dda1d2c6aba7cea7cff225edc&amp;chksm=eacc04a2ddbb8db49b7da900056c7d1ebb5f7bcf6b268960f6ee1d28bff7158582ba74c2837e#rd" rel="nofollow noopener">84. DTI教程07-计算弥散张量 </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487120&amp;idx=1&amp;sn=1a66160dda1d2c6aba7cea7cff225edc&amp;chksm=eacc04a2ddbb8db49b7da900056c7d1ebb5f7bcf6b268960f6ee1d28bff7158582ba74c2837e#rd" rel="nofollow noopener">84. 
+DTI Tutorial 07- Diffuse Tensor Estimation DTI教程07-计算弥散张量 </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487122&amp;idx=1&amp;sn=93caaf72c92e3f9aaf94e8a295241ff8&amp;chksm=eacc04a0ddbb8db63d6868ee692466ea6d897955ddc472c39890f89f5ad9097990259f4708c2#rd" rel="nofollow noopener">85. DTI教程08-Fa图及标量测量 </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487122&amp;idx=1&amp;sn=93caaf72c92e3f9aaf94e8a295241ff8&amp;chksm=eacc04a0ddbb8db63d6868ee692466ea6d897955ddc472c39890f89f5ad9097990259f4708c2#rd" rel="nofollow noopener">85. 
+DTI Tutorial 08-Fa and Scalar Measurements DTI教程08-Fa图及标量测量 </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487149&amp;idx=1&amp;sn=19e72a1051929bf3f27bf01e02039062&amp;chksm=eacc049fddbb8d890136ab765cf7ff3895293229b1cbe9cad46d1f8607ddff80d3fa93088d2b#rd" rel="nofollow noopener">86. DTI教程09-弥散张量的可视化 </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487149&amp;idx=1&amp;sn=19e72a1051929bf3f27bf01e02039062&amp;chksm=eacc049fddbb8d890136ab765cf7ff3895293229b1cbe9cad46d1f8607ddff80d3fa93088d2b#rd" rel="nofollow noopener">86. 
+DTI Tutorial 09- Diffusion Tensor Visualization  DTI教程09-弥散张量的可视化 </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487150&amp;idx=1&amp;sn=bdb743058c6173c0f7ce44a9b89daba1&amp;chksm=eacc049cddbb8d8a26fb12ab86bb5a32993305cb6661ee599b57b371409b059a93838309087a#rd" rel="nofollow noopener">87. DTI教程10-大脑纤维束成像 </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487150&amp;idx=1&amp;sn=bdb743058c6173c0f7ce44a9b89daba1&amp;chksm=eacc049cddbb8d8a26fb12ab86bb5a32993305cb6661ee599b57b371409b059a93838309087a#rd" rel="nofollow noopener">87. 
+DTI Tutorial 10- Whole Brain Tractography DTI教程10-大脑纤维束成像 </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487160&amp;idx=1&amp;sn=652c875d7b3a1f889d8d6ad7a7d6a31b&amp;chksm=eacc048addbb8d9c513965abab6ddcceb8ff3dc641f62c33bc3ef86a3c362cb6a302dfe1fd8e#rd" rel="nofollow noopener">88. DTI教程11-胼胝体纤维束成像 </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487160&amp;idx=1&amp;sn=652c875d7b3a1f889d8d6ad7a7d6a31b&amp;chksm=eacc048addbb8d9c513965abab6ddcceb8ff3dc641f62c33bc3ef86a3c362cb6a302dfe1fd8e#rd" rel="nofollow noopener">88. DTI Tutorial 11- Fiber Bundle Reconstruction  DTI教程11-胼胝体纤维束成像 </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487161&amp;idx=1&amp;sn=30a1884f830886b9241ec514156e7385&amp;chksm=eacc048bddbb8d9da3a666c1519e37ff68cbb2d4ec963d57e11e71276c9fd5915f2ae2def72a#rd" rel="nofollow noopener">89. DTI教程12-纤维束成像的参数调节 </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487161&amp;idx=1&amp;sn=30a1884f830886b9241ec514156e7385&amp;chksm=eacc048bddbb8d9da3a666c1519e37ff68cbb2d4ec963d57e11e71276c9fd5915f2ae2def72a#rd" rel="nofollow noopener">89. DTI Tutorial 11- Interactive Seeding  DTI教程12-纤维束成像的参数调节 </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487162&amp;idx=1&amp;sn=b04ac3adf0ac0855f452fe14cdda00fe&amp;chksm=eacc0488ddbb8d9eadc05c7fca3d1257cfd015c3c6e24c4858d4f87219a44b339a98e6b3ecdb#rd" rel="nofollow noopener">90. DTI教程13-皮质脊髓束纤维束成像 </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487162&amp;idx=1&amp;sn=b04ac3adf0ac0855f452fe14cdda00fe&amp;chksm=eacc0488ddbb8d9eadc05c7fca3d1257cfd015c3c6e24c4858d4f87219a44b339a98e6b3ecdb#rd" rel="nofollow noopener">90. DTI Tutorial 12- Corticospinal tract reconstruction DTI教程13-皮质脊髓束纤维束成像 </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487182&amp;idx=1&amp;sn=0390ba0985169c7b9e433258fd926188&amp;chksm=eacc04fcddbb8deabc9970286d1866132fa945bfa8457b31e169c06da6568163ac03720cb102#rd" rel="nofollow noopener">91. 肝囊性病变穿刺引流</a>高圆圆</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487182&amp;idx=1&amp;sn=0390ba0985169c7b9e433258fd926188&amp;chksm=eacc04fcddbb8deabc9970286d1866132fa945bfa8457b31e169c06da6568163ac03720cb102#rd" rel="nofollow noopener">91.
+Puncture and drainage of hepatic cystic lesion  肝囊性病变穿刺引流</a>高圆圆</h4>
 <h4>
 <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487115&amp;idx=1&amp;sn=b525e22a0b04f1f5b74c66cea774114b&amp;chksm=eacc04b9ddbb8daf2472569619f70e50df6a4689adc9a9a2ac04e860ef4d86491095f9d944e6&amp;token=2027960708&amp;lang=zh_CN#rd" rel="nofollow noopener">92. 3DSlicer汉化版正式发布 </a>曹玉福</h4>
 <h4>
 <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487193&amp;idx=1&amp;sn=90d3eae654727924dd5e90dfcde68517&amp;chksm=eacc04ebddbb8dfd325be26c1925d67a6514f4e8814cbe9cb066d406c7ade253695f950bd6e0&amp;token=2027960708&amp;lang=zh_CN#rd" rel="nofollow noopener">93. 3DSlicer中文论坛——软件下载与官网同步更新 </a>束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487205&amp;idx=1&amp;sn=715809b84359a7d278d3e1f16ed48338&amp;chksm=eacc04d7ddbb8dc1baee4a2fb03c0168a6889c56c7cf919464ca611a048ab948c11a98e3c82c#rd" rel="nofollow noopener">94. 饮水思源，为Slicer投票打Call </a>曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487205&amp;idx=1&amp;sn=715809b84359a7d278d3e1f16ed48338&amp;chksm=eacc04d7ddbb8dc1baee4a2fb03c0168a6889c56c7cf919464ca611a048ab948c11a98e3c82c#rd" rel="nofollow noopener">94. 3D Slicer Chinese version  饮水思源，为Slicer投票打Call </a>曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487235&amp;idx=1&amp;sn=39dcc96d0726bce2c2e23f67dd5c4d1d&amp;chksm=eacc0531ddbb8c275b828f6008664015d25f0d2eb86e869adcedd89dcadbbfb3d05fd911edd0&amp;token=2027960708&amp;lang=zh_CN#rd" rel="nofollow noopener">95. Slicer 4.10稳定版正式发布（增加新功能) </a>束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487235&amp;idx=1&amp;sn=39dcc96d0726bce2c2e23f67dd5c4d1d&amp;chksm=eacc0531ddbb8c275b828f6008664015d25f0d2eb86e869adcedd89dcadbbfb3d05fd911edd0&amp;token=2027960708&amp;lang=zh_CN#rd" rel="nofollow noopener">95. 
+Slicer 4.10 stable version Slicer 4.10稳定版正式发布（增加新功能) </a>束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487248&amp;idx=1&amp;sn=2ea74e596c6b3c3976c097a9f4be7ac6&amp;chksm=eacc0522ddbb8c344d93d79711b70748a2e60cdae893bca25c0ce455a3f16b4294ab36bf386c&amp;token=2027960708&amp;lang=zh_CN#rd" rel="nofollow noopener">96. 3D Slicer血肿分层等高线投影辅助脑出血内镜清除术 </a>王庭忠</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487248&amp;idx=1&amp;sn=2ea74e596c6b3c3976c097a9f4be7ac6&amp;chksm=eacc0522ddbb8c344d93d79711b70748a2e60cdae893bca25c0ce455a3f16b4294ab36bf386c&amp;token=2027960708&amp;lang=zh_CN#rd" rel="nofollow noopener">96. 
+Hematoma Layered Contour Projection for Endoscopic evacuation of cerebral hemorrahage 3D Slicer血肿分层等高线投影辅助脑出血内镜清除术 </a>王庭忠</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487285&amp;idx=1&amp;sn=739933048b8bc15aca30180b4f1b95b9&amp;chksm=eacc0507ddbb8c117291363c9fc92a82e4b356fa47545f267103643c4cd8e98095065051f51a#rd" rel="nofollow noopener">97. 漫谈空间维度与信息 </a>束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487285&amp;idx=1&amp;sn=739933048b8bc15aca30180b4f1b95b9&amp;chksm=eacc0507ddbb8c117291363c9fc92a82e4b356fa47545f267103643c4cd8e98095065051f51a#rd" rel="nofollow noopener">97.Spatial Dimensions 漫谈空间维度与信息 </a>束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487310&amp;idx=1&amp;sn=63b54ee1a4e7fe744c538a4f5619aea7&amp;chksm=eacc057cddbb8c6a6a5a16dbb0d0e2d9192993a21c055130c2c6836ffaa086eafc02f9400683#rd" rel="nofollow noopener">98. SlicerVR初体验 </a>束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487310&amp;idx=1&amp;sn=63b54ee1a4e7fe744c538a4f5619aea7&amp;chksm=eacc057cddbb8c6a6a5a16dbb0d0e2d9192993a21c055130c2c6836ffaa086eafc02f9400683#rd" rel="nofollow noopener">98. First experience with SlicerVR SlicerVR初体验 </a>束旭俊</h4>
 <h4>
-  <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487343&amp;idx=1&amp;sn=63f67985fdcb79412804ceb9ddc23e78&amp;chksm=eacc055dddbb8c4b873ce04ff0dceee07171aeaeb169922396916c4b52712b8ec781a6aaad62#rd" rel="nofollow noopener">99. Slicer+AR：人人都能做的AR </a>束旭俊</h4>
+  <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247487343&amp;idx=1&amp;sn=63f67985fdcb79412804ceb9ddc23e78&amp;chksm=eacc055dddbb8c4b873ce04ff0dceee07171aeaeb169922396916c4b52712b8ec781a6aaad62#rd" rel="nofollow noopener">99. Slicer Augmented Reality Slicer+AR：人人都能做的AR </a>束旭俊</h4>
