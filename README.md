@@ -118,33 +118,40 @@ Application of Image J for cerebral hemorrhage puncture Image J在脑出血穿�
 <h4>
 <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486051&amp;idx=1&amp;sn=83b489f4c1dc6069be2292208c56768e&amp;chksm=eacc0051ddbb8947aba117091988703442ba25f4bbc2cbb093331e27eba877c63541dd5c4c6b#rd" rel="nofollow noopener">55. Cerebral hemorrhage localization through frontal surgery positioning method -  Part 4 脑出血经额手术定位法（四） </a> 孙宗汉</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486079&amp;idx=1&amp;sn=9b926dc398a408e3441082b9e0ffde61&amp;chksm=eacc004dddbb895bf9b60f5f1bc443513196e4cb90a6caf6f348a4da7b7fc22eb658661aeb49#rd" rel="nofollow noopener">56. 脑出血经额手术定位法（五） </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486079&amp;idx=1&amp;sn=9b926dc398a408e3441082b9e0ffde61&amp;chksm=eacc004dddbb895bf9b60f5f1bc443513196e4cb90a6caf6f348a4da7b7fc22eb658661aeb49#rd" rel="nofollow noopener">56.  Cerebral hemorrhage localization through frontal surgery positioning method -  Part 5 脑出血经额手术定位法（五） </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486116&amp;idx=1&amp;sn=772e9d431ac32cbb73d08cf0e6bc219a&amp;chksm=eacc0096ddbb89805d93ac4be181d1a35058031bac673d7a91b3b44dccee2bfd1d8461397635#rd" rel="nofollow noopener">57. 3D Slicer：漂亮得不像实力派 </a> 束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486116&amp;idx=1&amp;sn=772e9d431ac32cbb73d08cf0e6bc219a&amp;chksm=eacc0096ddbb89805d93ac4be181d1a35058031bac673d7a91b3b44dccee2bfd1d8461397635#rd" rel="nofollow noopener">57. Introduction to 3D Slicer: Volume Rendering 3D Slicer：漂亮得不像实力派 </a> 束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486195&amp;idx=1&amp;sn=24793d240afb8d7a171a2612a2797a3b&amp;chksm=eacc00c1ddbb89d7fb1a31b6efe7ac2f58df6620e7da8fb7f64c741b68a980de36a303924c43#rd" rel="nofollow noopener">58. 经颞血肿穿刺的坐标定位法</a> 吴阳</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486195&amp;idx=1&amp;sn=24793d240afb8d7a171a2612a2797a3b&amp;chksm=eacc00c1ddbb89d7fb1a31b6efe7ac2f58df6620e7da8fb7f64c741b68a980de36a303924c43#rd" rel="nofollow noopener">58. Transtemporal hematoma puncture 经颞血肿穿刺的坐标定位法</a> 吴阳</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486246&amp;idx=1&amp;sn=9e2405a03a93fc7293d30ce2fece7f08&amp;chksm=eacc0114ddbb8802db416006697446984553f09f5305c47afc89ece2d6bb1af73f427f71c352#rd" rel="nofollow noopener">59. CT图片三维重建方法之3DSlicer篇 </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486246&amp;idx=1&amp;sn=9e2405a03a93fc7293d30ce2fece7f08&amp;chksm=eacc0114ddbb8802db416006697446984553f09f5305c47afc89ece2d6bb1af73f427f71c352#rd" rel="nofollow noopener">59. 
+3D Reconstruction of CT data CT图片三维重建方法之3DSlicer篇 </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486360&amp;idx=1&amp;sn=f833b13a26f543aa9175419a03df7f52&amp;chksm=eacc01aaddbb88bcb004773a4db8a9b3c7633d21cda3956f84b96515252eb861c5eb1e75a60b#rd" rel="nofollow noopener">60. 脑膜瘤患者颅骨切除一期修补的3DSlicer方案 </a> 霍贵通</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486360&amp;idx=1&amp;sn=f833b13a26f543aa9175419a03df7f52&amp;chksm=eacc01aaddbb88bcb004773a4db8a9b3c7633d21cda3956f84b96515252eb861c5eb1e75a60b#rd" rel="nofollow noopener">60. 
+Skull repair following meningioma surgery 脑膜瘤患者颅骨切除一期修补的3DSlicer方案 </a> 霍贵通</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486483&amp;idx=1&amp;sn=1012ae7972649fa462e877e2530c1565&amp;chksm=eacc0621ddbb8f372d149e1ca1ba8043e9f0cb17e3ab52abe5d4275d4ad6948486d7328adcce#rd" rel="nofollow noopener">61. 手术用头架在脑出血穿刺引流术中的应用 </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486483&amp;idx=1&amp;sn=1012ae7972649fa462e877e2530c1565&amp;chksm=eacc0621ddbb8f372d149e1ca1ba8043e9f0cb17e3ab52abe5d4275d4ad6948486d7328adcce#rd" rel="nofollow noopener">61. 
+Application of surgical head frame in puncture and drainage of cerebral hemorrhage 手术用头架在脑出血穿刺引流术中的应用 </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486564&amp;idx=1&amp;sn=3b7338ba66cf63f1f18517255cad3b41&amp;chksm=eacc0656ddbb8f40315693f2252eaf80eb58537a084c7314c2fda096e4d2e1ab6ab1cc82fea2#rd" rel="nofollow noopener">62. 鼻腔、鼻窦及颅底相关解剖CT影像概要</a> 束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486564&amp;idx=1&amp;sn=3b7338ba66cf63f1f18517255cad3b41&amp;chksm=eacc0656ddbb8f40315693f2252eaf80eb58537a084c7314c2fda096e4d2e1ab6ab1cc82fea2#rd" rel="nofollow noopener">62.
+CT imaging of nasal cavity, sinuses and skull base anatomy 鼻腔、鼻窦及颅底相关解剖CT影像概要</a> 束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486567&amp;idx=1&amp;sn=1b6e61e8f6d7aeba099e72b0e383e9ac&amp;chksm=eacc0655ddbb8f43deb4125cfa3b6325428d00f20193f959b17407ba8b325e5a7e8c10e5d071#rd" rel="nofollow noopener">63. 基于3DSlicer的CTVE技术在鼻腔蝶窦三维解剖结构中应用 </a> 束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486567&amp;idx=1&amp;sn=1b6e61e8f6d7aeba099e72b0e383e9ac&amp;chksm=eacc0655ddbb8f43deb4125cfa3b6325428d00f20193f959b17407ba8b325e5a7e8c10e5d071#rd" rel="nofollow noopener">63.
+Application of Slicer-based CTVE Technology in Three-dimensional Anatomical Structure of Nasal Sphenoid Sinus  基于3DSlicer的CTVE技术在鼻腔蝶窦三维解剖结构中应用 </a> 束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486607&amp;idx=1&amp;sn=cbff5491c0d6cb32dc6ed05330dcb586&amp;chksm=eacc06bdddbb8fabe684dd17069c5f692726a0cfa23fffc971b609eeba9dfa84fc7236268a38#rd" rel="nofollow noopener">64. 3D Slicer三维重建技术在脑皮层肿瘤切除中的应用 </a> 霍贵通</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486607&amp;idx=1&amp;sn=cbff5491c0d6cb32dc6ed05330dcb586&amp;chksm=eacc06bdddbb8fabe684dd17069c5f692726a0cfa23fffc971b609eeba9dfa84fc7236268a38#rd" rel="nofollow noopener">64. Brain Tumor Surgery 3D Slicer三维重建技术在脑皮层肿瘤切除中的应用 </a> 霍贵通</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486619&amp;idx=1&amp;sn=52788fa9d35329b2d80627471ddc05cc&amp;chksm=eacc06a9ddbb8fbf81b457cbe5efa4d84eba882a81e5807a9a6393f7089d5aca2a11d5c3256c#rd" rel="nofollow noopener">65. 经鼻虚拟内镜显露鞍底解剖结构（视频） </a> 束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486619&amp;idx=1&amp;sn=52788fa9d35329b2d80627471ddc05cc&amp;chksm=eacc06a9ddbb8fbf81b457cbe5efa4d84eba882a81e5807a9a6393f7089d5aca2a11d5c3256c#rd" rel="nofollow noopener">65. Transnasal virtual endoscopy 经鼻虚拟内镜显露鞍底解剖结构（视频） </a> 束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486671&amp;idx=1&amp;sn=1c4d2ec151d4daa6fffd80a59d011add&amp;chksm=eacc06fdddbb8feb20b78f3cbaa873ea69a7b47f4a1e334cae2ccfdb4cb80cd338c34a79350f#rd" rel="nofollow noopener">66. 从医生工作站获取影像资料用于3DSlicer重建 </a> 布鑫</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486671&amp;idx=1&amp;sn=1c4d2ec151d4daa6fffd80a59d011add&amp;chksm=eacc06fdddbb8feb20b78f3cbaa873ea69a7b47f4a1e334cae2ccfdb4cb80cd338c34a79350f#rd" rel="nofollow noopener">66. Exporting data from clinical workstations 从医生工作站获取影像资料用于3DSlicer重建 </a> 布鑫</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486691&amp;idx=1&amp;sn=25f92dde0ab20abb6967caa1ca022e6c&amp;chksm=eacc06d1ddbb8fc787e8c48db6eac1548f3b18e5e2defc6974202d80689e0edab3406eb9a6fc#rd" rel="nofollow noopener">67. 校正3Dslicer畸变图像之医三维法 </a> 罗俊杰</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486691&amp;idx=1&amp;sn=25f92dde0ab20abb6967caa1ca022e6c&amp;chksm=eacc06d1ddbb8fc787e8c48db6eac1548f3b18e5e2defc6974202d80689e0edab3406eb9a6fc#rd" rel="nofollow noopener">67.Correction of image distorsion
+ 校正3Dslicer畸变图像之医三维法 </a> 罗俊杰</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486705&amp;idx=1&amp;sn=1408076260d39629cefd5727623cccf6&amp;chksm=eacc06c3ddbb8fd57d533c185f2655d4198fd9ecbdfd6c8bdb5c7a2a14ce1bb024a281ec50ba#rd" rel="nofollow noopener">68. 用VolumeRendering模块区分动脉&amp;静脉 </a>束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486705&amp;idx=1&amp;sn=1408076260d39629cefd5727623cccf6&amp;chksm=eacc06c3ddbb8fd57d533c185f2655d4198fd9ecbdfd6c8bdb5c7a2a14ce1bb024a281ec50ba#rd" rel="nofollow noopener">68. Differentiate Arteries and Veins using Volume Rendering   用VolumeRendering模块区分动脉&amp;静脉 </a>束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486736&amp;idx=1&amp;sn=0f1ee47356a07ef1ccfe0d04c8c908ed&amp;chksm=eacc0722ddbb8e34a3f51fdcce659452f37906bc16bedae9458ebbf0d803a428ab4282a912a1#rd" rel="nofollow noopener">69. 3DSlicer多模态融合辅助脑膜瘤切除1例 </a>赵鹏</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486736&amp;idx=1&amp;sn=0f1ee47356a07ef1ccfe0d04c8c908ed&amp;chksm=eacc0722ddbb8e34a3f51fdcce659452f37906bc16bedae9458ebbf0d803a428ab4282a912a1#rd" rel="nofollow noopener">69. 
+Multimodal data fusion for meningiomas resection 3DSlicer多模态融合辅助脑膜瘤切除1例 </a>赵鹏</h4>
 <h4>
 <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486773&amp;idx=1&amp;sn=11eb5ec03dd9c8d72584f4105d21ec67&amp;chksm=eacc0707ddbb8e111d576969af6c04719f2479ad76fea4818ff4a500492699455f76abb854d1#rd" rel="nofollow noopener">70. 3D Slicer在卵圆孔穿刺中的应用 </a>霍贵通</h4>
 <h4>
