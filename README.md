@@ -68,51 +68,55 @@ Puncture guide 3D打印穿刺导板的设计 </a> 杨立志</h4>
 <h4>
 <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484729&amp;idx=1&amp;sn=860e0925a4799d51ecaefbc9ddcc0d4c&amp;chksm=eacc0f0bddbb861d5289dc216963618ff224c8f54172e169631e75751999f0a3b2bfec0a61ff#rd" rel="nofollow noopener">32. Surgical clamping of distal anterior cerebral artery aneurysm - Part 1  大脑前动脉远端动脉瘤手术夹闭治疗（一） </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484787&amp;idx=1&amp;sn=1f6279bdccab168fc79b7275e9fe91ca&amp;chksm=eacc0f41ddbb8657be92f617661133d87bb55a4ecf12f786e97a8b7d5249a05d11e0cd620c3f#rd" rel="nofollow noopener">33.Surgical clamping of distal anterior cerebral artery aneurysm - Part 2 大脑前动脉远端动脉瘤手术夹闭治疗（二） </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484787&amp;idx=1&amp;sn=1f6279bdccab168fc79b7275e9fe91ca&amp;chksm=eacc0f41ddbb8657be92f617661133d87bb55a4ecf12f786e97a8b7d5249a05d11e0cd620c3f#rd" rel="nofollow noopener">33. Surgical clamping of distal anterior cerebral artery aneurysm - Part 2 大脑前动脉远端动脉瘤手术夹闭治疗（二） </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484810&amp;idx=1&amp;sn=98d9c81488b205cf13229905175a0665&amp;chksm=eacc0fb8ddbb86ae9433685d2bfc909627d4f80e1a24ff07ea3b0fc5de778e41fed4d37d5069#rd" rel="nofollow noopener">34. 利用3D Slicer自动剥离CT或MRI影像上的头皮和颅骨 </a> 王奎重</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484810&amp;idx=1&amp;sn=98d9c81488b205cf13229905175a0665&amp;chksm=eacc0fb8ddbb86ae9433685d2bfc909627d4f80e1a24ff07ea3b0fc5de778e41fed4d37d5069#rd" rel="nofollow noopener">34. Scalp and Skull Stripping from CT and MRI data
+利用3D Slicer自动剥离CT或MRI影像上的头皮和颅骨 </a> 王奎重</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484878&amp;idx=1&amp;sn=3cb2ae447bb50a5b321f7a641423f45a&amp;chksm=eacc0ffcddbb86ea0b361a2d322dceee1d6281ee4e36978b569b4bb9f99d313bad47ce3f1f9a#rd" rel="nofollow noopener">35. 3D Slicer转换坐标法显示颅内病变体表投影 </a> 王奎重</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484878&amp;idx=1&amp;sn=3cb2ae447bb50a5b321f7a641423f45a&amp;chksm=eacc0ffcddbb86ea0b361a2d322dceee1d6281ee4e36978b569b4bb9f99d313bad47ce3f1f9a#rd" rel="nofollow noopener">35. Surface Projection of intracranial lesions 3D Slicer转换坐标法显示颅内病变体表投影 </a> 王奎重</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484928&amp;idx=1&amp;sn=76fa9b262317e3b5bb477bf6a2de61f0&amp;chksm=eacc0c32ddbb8524b228fb53e5db18ea8710c51ca93260d45df7a45d184198ca9bba3d3978a0#rd" rel="nofollow noopener">36. 用3DSlicer开脑洞— 切口及骨窗设计 </a> 束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484928&amp;idx=1&amp;sn=76fa9b262317e3b5bb477bf6a2de61f0&amp;chksm=eacc0c32ddbb8524b228fb53e5db18ea8710c51ca93260d45df7a45d184198ca9bba3d3978a0#rd" rel="nofollow noopener">36.Bone window design 用3DSlicer开脑洞— 切口及骨窗设计 </a> 束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484979&amp;idx=1&amp;sn=7d5a75e4247c91d7c61e14b2cc82bfb6&amp;chksm=eacc0c01ddbb8517adbd5553b96fef602304d1a1f09965d2f78b99e54e96d3661a998486d034#rd" rel="nofollow noopener">37. 3D Slicer辅助颅内肿瘤手术设计一例 </a> 周翔</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484979&amp;idx=1&amp;sn=7d5a75e4247c91d7c61e14b2cc82bfb6&amp;chksm=eacc0c01ddbb8517adbd5553b96fef602304d1a1f09965d2f78b99e54e96d3661a998486d034#rd" rel="nofollow noopener">37. Intracranial tumor surgery 3D Slicer辅助颅内肿瘤手术设计一例 </a> 周翔</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485010&amp;idx=1&amp;sn=81dd88e459a937eaf8b4ac2d3ac1fdd1&amp;chksm=eacc0c60ddbb8576d569aed4ab342ff1bb60449cff67433251f4ba15efdc471caec553d5c553#rd" rel="nofollow noopener">38. 3D Slicer辅助定位脑内海绵状血管瘤1例 </a> 霍显浩</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485010&amp;idx=1&amp;sn=81dd88e459a937eaf8b4ac2d3ac1fdd1&amp;chksm=eacc0c60ddbb8576d569aed4ab342ff1bb60449cff67433251f4ba15efdc471caec553d5c553#rd" rel="nofollow noopener">38. Cavernous Brain Hemangioma Localization: A Case Report 3D Slicer辅助定位脑内海绵状血管瘤1例 </a> 霍显浩</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485213&amp;idx=1&amp;sn=1a59e52d1b61bc03ae302566e57a969c&amp;chksm=eacc0d2fddbb84397a95daa378d5aff7fc25c2a7710bd4828f7fbde9c41bae35b8461530eba5#rd" rel="nofollow noopener">39. 不一般的“头皮肿物”3例 </a> 霍贵通</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485213&amp;idx=1&amp;sn=1a59e52d1b61bc03ae302566e57a969c&amp;chksm=eacc0d2fddbb84397a95daa378d5aff7fc25c2a7710bd4828f7fbde9c41bae35b8461530eba5#rd" rel="nofollow noopener">39. Unusual scalp masses in three cases 不一般的“头皮肿物”3例 </a> 霍贵通</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485305&amp;idx=1&amp;sn=a943f08da59dc81a3ab9f15d810192cd&amp;chksm=eacc0d4bddbb845d7419f7cc8fd330c6f567c0a1460da500f07619076c18da280bce04466e87#rd" rel="nofollow noopener">40. CT去背板的终极法则 </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485305&amp;idx=1&amp;sn=a943f08da59dc81a3ab9f15d810192cd&amp;chksm=eacc0d4bddbb845d7419f7cc8fd330c6f567c0a1460da500f07619076c18da280bce04466e87#rd" rel="nofollow noopener">40. The ultimate rule of CT backplane removal CT去背板的终极法则 </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485331&amp;idx=1&amp;sn=64fca39dcf2e620c327754c43145b550&amp;chksm=eacc0da1ddbb84b7751fecc659e2a0297230ef50a79023bf63db0aa8420876357670cb13e981#rd" rel="nofollow noopener">41. 血肿建模的第10种方法 </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485331&amp;idx=1&amp;sn=64fca39dcf2e620c327754c43145b550&amp;chksm=eacc0da1ddbb84b7751fecc659e2a0297230ef50a79023bf63db0aa8420876357670cb13e981#rd" rel="nofollow noopener">41. The 10th Method of Hematoma Modeling 血肿建模的第10种方法 </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485356&amp;idx=1&amp;sn=044f5899b651b35994db00c32ab688ee&amp;chksm=eacc0d9eddbb8488f16ff82bb1dda8456a4011790fed024781972d578783e67781443cf4a319#rd" rel="nofollow noopener">42. 血肿建模的第11种方法 </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485356&amp;idx=1&amp;sn=044f5899b651b35994db00c32ab688ee&amp;chksm=eacc0d9eddbb8488f16ff82bb1dda8456a4011790fed024781972d578783e67781443cf4a319#rd" rel="nofollow noopener">42. The 11th Method of Hematoma Modeling 血肿建模的第11种方法 </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485402&amp;idx=1&amp;sn=f5c0f732fb7bf6970c31672d6e7e073f&amp;chksm=eacc0de8ddbb84feea247e20d42cf032819db0bf45ced5a9d75548c1654305d638fc27599dd8#rd" rel="nofollow noopener">43. 如何调正扫描歪斜的CT片 </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485402&amp;idx=1&amp;sn=f5c0f732fb7bf6970c31672d6e7e073f&amp;chksm=eacc0de8ddbb84feea247e20d42cf032819db0bf45ced5a9d75548c1654305d638fc27599dd8#rd" rel="nofollow noopener">43. Correction of skewed CT images 如何调正扫描歪斜的CT片 </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485413&amp;idx=1&amp;sn=98985915909b2f0e59e70a08a440826e&amp;chksm=eacc0dd7ddbb84c170faf775cb484b09fd6dfef231c8b634906cb3d08f351163f735d9b5ded8#rd" rel="nofollow noopener">44. CT图像畸形校准 </a> 谢国强</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485413&amp;idx=1&amp;sn=98985915909b2f0e59e70a08a440826e&amp;chksm=eacc0dd7ddbb84c170faf775cb484b09fd6dfef231c8b634906cb3d08f351163f735d9b5ded8#rd" rel="nofollow noopener">44. CT data distorsion correction CT图像畸形校准 </a> 谢国强</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485461&amp;idx=1&amp;sn=2c4cae302cb24e492e362750d808c15b&amp;chksm=eacc0227ddbb8b316aadbea955c35f098b7f4a30330b615453b0ce21d96af96883ba4e55bbbb#rd" rel="nofollow noopener">45. 手术治疗脑出血合并乳糜样成分1例 </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485461&amp;idx=1&amp;sn=2c4cae302cb24e492e362750d808c15b&amp;chksm=eacc0227ddbb8b316aadbea955c35f098b7f4a30330b615453b0ce21d96af96883ba4e55bbbb#rd" rel="nofollow noopener">45. Surgical treatment of intracerebral hemorrhage with chyloid component: a case report 手术治疗脑出血合并乳糜样成分1例 </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485577&amp;idx=1&amp;sn=1c1739614a83ab2ac15792c7bac1e20e&amp;chksm=eacc02bbddbb8badcdea21b9a1b3abb10607c80a031884399399504578043086ef6f98974dd9#rd" rel="nofollow noopener">46. 球囊扩张通道脑出血内镜手术1例 </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485577&amp;idx=1&amp;sn=1c1739614a83ab2ac15792c7bac1e20e&amp;chksm=eacc02bbddbb8badcdea21b9a1b3abb10607c80a031884399399504578043086ef6f98974dd9#rd" rel="nofollow noopener">46. Endoscopic Surgery with Balloon Dilation Channel for Cerebral Hemorrhage: A Case Report 球囊扩张通道脑出血内镜手术1例 </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485645&amp;idx=1&amp;sn=e6c23d9142643ae43f7bec0ca75bad3d&amp;chksm=eacc02ffddbb8be9c8d49dd42bf5141538cc71c77fa21ed837cf9babc3eb7d0f87d332fbb0b8#rd" rel="nofollow noopener">47. 脑出血经额手术定位法（一） </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485645&amp;idx=1&amp;sn=e6c23d9142643ae43f7bec0ca75bad3d&amp;chksm=eacc02ffddbb8be9c8d49dd42bf5141538cc71c77fa21ed837cf9babc3eb7d0f87d332fbb0b8#rd" rel="nofollow noopener">47.
+Cerebral hemorrhage localization through frontal surgery positioning method - Part 1(1脑出血经额手术定位法（一） </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485660&amp;idx=1&amp;sn=27483d95f3fde4aca5e637ee9e437e9a&amp;chksm=eacc02eeddbb8bf847022e5a561c19e7130ddf80a941f56ecbb65e8d8421c9a14c4a67ac3eb6#rd" rel="nofollow noopener">48. 脑出血经额手术定位法（二） </a> 霍贵通</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485660&amp;idx=1&amp;sn=27483d95f3fde4aca5e637ee9e437e9a&amp;chksm=eacc02eeddbb8bf847022e5a561c19e7130ddf80a941f56ecbb65e8d8421c9a14c4a67ac3eb6#rd" rel="nofollow noopener">48. Cerebral hemorrhage localization through frontal surgery positioning method -  Part 2 脑出血经额手术定位法（二） </a> 霍贵通</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485752&amp;idx=1&amp;sn=8f3161f8d8c06a2d28591fb152955a1b&amp;chksm=eacc030addbb8a1c873ab621a18f706d2a8abba843693e581d8cbb184e8238fd55977146c62a#rd" rel="nofollow noopener">49. CTA教程之数字减影 </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485752&amp;idx=1&amp;sn=8f3161f8d8c06a2d28591fb152955a1b&amp;chksm=eacc030addbb8a1c873ab621a18f706d2a8abba843693e581d8cbb184e8238fd55977146c62a#rd" rel="nofollow noopener">49. Digital Subtraction of CTA data CTA教程之数字减影 </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485805&amp;idx=1&amp;sn=bffc5cc16cefa7367ead3a92eaef5420&amp;chksm=eacc035fddbb8a4954b2a6169662420e180018dd05023cb249b71034d5bcca2f719c9aeae8f1#rd" rel="nofollow noopener">50. 脑出血经额手术定位法（三） </a> 于德君</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485805&amp;idx=1&amp;sn=bffc5cc16cefa7367ead3a92eaef5420&amp;chksm=eacc035fddbb8a4954b2a6169662420e180018dd05023cb249b71034d5bcca2f719c9aeae8f1#rd" rel="nofollow noopener">50.  Cerebral hemorrhage localization through frontal surgery positioning method -  Part 3 脑出血经额手术定位法（三） </a> 于德君</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485878&amp;idx=1&amp;sn=d79d1afa03a116343f0e1ad85dc676e4&amp;chksm=eacc0384ddbb8a920e8a6da151ec639e63f642480db41c19347a824e607f5a8415dedbc1f73f#rd" rel="nofollow noopener">51. 脑室系统解剖（一） </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485878&amp;idx=1&amp;sn=d79d1afa03a116343f0e1ad85dc676e4&amp;chksm=eacc0384ddbb8a920e8a6da151ec639e63f642480db41c19347a824e607f5a8415dedbc1f73f#rd" rel="nofollow noopener">51. Ventricular system anatomy 脑室系统解剖（一） </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485936&amp;idx=1&amp;sn=677cd0e9bf0a25d34cede11bb9d87779&amp;chksm=eacc03c2ddbb8ad4fd8851dfb43c37f61567e54fbb20d1bad6a6c82a0d0ce4a10a65166f7642#rd" rel="nofollow noopener">52. 应用Office Lens软件采集CT胶片影像 </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247485936&amp;idx=1&amp;sn=677cd0e9bf0a25d34cede11bb9d87779&amp;chksm=eacc03c2ddbb8ad4fd8851dfb43c37f61567e54fbb20d1bad6a6c82a0d0ce4a10a65166f7642#rd" rel="nofollow noopener">52. CT Film Images acquisition with Office Lens Software 应用Office Lens软件采集CT胶片影像 </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486025&amp;idx=1&amp;sn=b281324893be4ab116d20826f1b426c3&amp;chksm=eacc007bddbb896d9deb096f209278f40c0b52c6410a8a9ff3ce8c3697c99304f18eb678f11e#rd" rel="nofollow noopener">53. 手机定位及AR应用的初步探索 </a> 束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486025&amp;idx=1&amp;sn=b281324893be4ab116d20826f1b426c3&amp;chksm=eacc007bddbb896d9deb096f209278f40c0b52c6410a8a9ff3ce8c3697c99304f18eb678f11e#rd" rel="nofollow noopener">53. 
+Preliminary Exploration of Mobile Phone Positioning and AR Application 手机定位及AR应用的初步探索 </a> 束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486026&amp;idx=1&amp;sn=284ed1b1a59dc1701e9b42d83f88df7e&amp;chksm=eacc0078ddbb896ee7688c7cab054a622c18ff983a9a1fb857ee84023e9a8313f4f0825c8841#rd" rel="nofollow noopener">54. Image J在脑出血穿刺定位中的应用 </a> 孙宗汉</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486026&amp;idx=1&amp;sn=284ed1b1a59dc1701e9b42d83f88df7e&amp;chksm=eacc0078ddbb896ee7688c7cab054a622c18ff983a9a1fb857ee84023e9a8313f4f0825c8841#rd" rel="nofollow noopener">54. 
+Application of Image J for cerebral hemorrhage puncture Image J在脑出血穿刺定位中的应用 </a> 孙宗汉</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486051&amp;idx=1&amp;sn=83b489f4c1dc6069be2292208c56768e&amp;chksm=eacc0051ddbb8947aba117091988703442ba25f4bbc2cbb093331e27eba877c63541dd5c4c6b#rd" rel="nofollow noopener">55. 脑出血经额手术定位法（四） </a> 孙宗汉</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486051&amp;idx=1&amp;sn=83b489f4c1dc6069be2292208c56768e&amp;chksm=eacc0051ddbb8947aba117091988703442ba25f4bbc2cbb093331e27eba877c63541dd5c4c6b#rd" rel="nofollow noopener">55. Cerebral hemorrhage localization through frontal surgery positioning method -  Part 4 脑出血经额手术定位法（四） </a> 孙宗汉</h4>
 <h4>
 <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247486079&amp;idx=1&amp;sn=9b926dc398a408e3441082b9e0ffde61&amp;chksm=eacc004dddbb895bf9b60f5f1bc443513196e4cb90a6caf6f348a4da7b7fc22eb658661aeb49#rd" rel="nofollow noopener">56. 脑出血经额手术定位法（五） </a> 曹玉福</h4>
 <h4>
