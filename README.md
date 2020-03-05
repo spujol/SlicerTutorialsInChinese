@@ -1,22 +1,22 @@
 # SlicerTutorialsInChinese
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483658&amp;idx=1&amp;sn=ad08fe01c61d6999a36f2960b34287ec&amp;chksm=eacc0b38ddbb822e60206afcf0bb67562432bb275463b20ad6ac7d243ccc1429afaa8f2177ea#rd" rel="nofollow noopener">1. 如何用3D Slicer实现模型3D打印 </a> 束旭俊</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483658&amp;idx=1&amp;sn=ad08fe01c61d6999a36f2960b34287ec&amp;chksm=eacc0b38ddbb822e60206afcf0bb67562432bb275463b20ad6ac7d243ccc1429afaa8f2177ea#rd" rel="nofollow noopener">1. 3D printing  如何用3D Slicer实现模型3D打印 </a> 束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483699&amp;idx=1&amp;sn=5bdb822dc7b93d4b0ebde2e8abdebe2d&amp;chksm=eacc0b01ddbb821704929fa61c3d2995ad1aa3e9dfad2ee4d53fcd681ebf4bde6bb43becef08#rd" rel="nofollow noopener">2. 3DSlicer实战之浅表肿瘤定位 </a> 霍贵通</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483699&amp;idx=1&amp;sn=5bdb822dc7b93d4b0ebde2e8abdebe2d&amp;chksm=eacc0b01ddbb821704929fa61c3d2995ad1aa3e9dfad2ee4d53fcd681ebf4bde6bb43becef08#rd" rel="nofollow noopener">2. Brain tumor localization 3DSlicer实战之浅表肿瘤定位 </a> 霍贵通</h4>
 <h4>
-  <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483717&amp;idx=1&amp;sn=8ca6a245abdb54617c021e50573dd865&amp;chksm=eacc0b77ddbb82610d5838236331f52b7ec96c587898d972236e9cf08b6f3c228c9c5e16e9fe#rd" rel="nofollow noopener">3. 颅内病变体表定位 </a> 束旭俊</h4>
-<h4><a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483805&amp;idx=1&amp;sn=fd315dfc75dc2ad6f2fc281f7871586b&amp;chksm=eacc0bafddbb82b9bff78fc63c9d80af1c27e70cac298647ca63541d3596d5ea1936e92a969a#rd" rel="nofollow noopener">4. 3Dslicer模拟手术入路之CPA肿瘤 </a></h4>
+  <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483717&amp;idx=1&amp;sn=8ca6a245abdb54617c021e50573dd865&amp;chksm=eacc0b77ddbb82610d5838236331f52b7ec96c587898d972236e9cf08b6f3c228c9c5e16e9fe#rd" rel="nofollow noopener">3. Localization of intracranial lesions  颅内病变体表定位 </a> 束旭俊</h4>
+<h4><a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483805&amp;idx=1&amp;sn=fd315dfc75dc2ad6f2fc281f7871586b&amp;chksm=eacc0bafddbb82b9bff78fc63c9d80af1c27e70cac298647ca63541d3596d5ea1936e92a969a#rd" rel="nofollow noopener">4. Simulation of surgical approach for CPA tumor resection simulation 3Dslicer模拟手术入路之CPA肿瘤 </a></h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483863&amp;idx=1&amp;sn=ecd46c711c30435ff1fba6e63af3f8d0&amp;chksm=eacc0be5ddbb82f327c99e47d3af887b4c63d66b2f2d776d6965cde0033bfef06881af5e5284#rd" rel="nofollow noopener">5. 3D Slicer在脑出血神经内镜手术中的应用 </a> 谢国强</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483863&amp;idx=1&amp;sn=ecd46c711c30435ff1fba6e63af3f8d0&amp;chksm=eacc0be5ddbb82f327c99e47d3af887b4c63d66b2f2d776d6965cde0033bfef06881af5e5284#rd" rel="nofollow noopener">5. Neuroendoscopic surgery for cerebral hemorrhage 3D Slicer在脑出血神经内镜手术中的应用 </a> 谢国强</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483870&amp;idx=1&amp;sn=2876f32e99da710fe84e588ba6cd5219&amp;chksm=eacc0becddbb82faa952ab565562c13258619cfbb6505b55135969512291a9db912ead52672d#rd" rel="nofollow noopener">6. 3D Slicer临床应用之窦旁脑膜瘤 </a> 霍显浩</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483870&amp;idx=1&amp;sn=2876f32e99da710fe84e588ba6cd5219&amp;chksm=eacc0becddbb82faa952ab565562c13258619cfbb6505b55135969512291a9db912ead52672d#rd" rel="nofollow noopener">6. Parasinus meningiomas  3D Slicer临床应用之窦旁脑膜瘤 </a> 霍显浩</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483912&amp;idx=1&amp;sn=a87d27e861cfc601bdaffea3714cdd99&amp;chksm=eacc083addbb812c5b7fb37398e8e253534f7d86ab77f55da2085045a1b81b1bcbcd99708bed#rd" rel="nofollow noopener">7. 利用3D Slicer融合不同检查部位的图像 </a> 王奎重</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483912&amp;idx=1&amp;sn=a87d27e861cfc601bdaffea3714cdd99&amp;chksm=eacc083addbb812c5b7fb37398e8e253534f7d86ab77f55da2085045a1b81b1bcbcd99708bed#rd" rel="nofollow noopener">7. Using 3D Slicer to merge images from different examination sites  利用3D Slicer融合不同检查部位的图像 </a> 王奎重</h4>
 <h4>
 <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247483948&amp;idx=1&amp;sn=05b4683ab126513554a593a4a29f415d&amp;chksm=eacc081eddbb81080bb1ba6c7c69b13f1d4d2b140f8df19c7860164ef9e16d7698ad1a434139#rd" rel="nofollow noopener">8. KiwiViewer—将患者的医学影像装进口袋 </a> 束旭俊</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484003&amp;idx=1&amp;sn=baf76f3bdb37c8ceb6faba34b018d87a&amp;chksm=eacc0851ddbb8147cd174da3c3d05ca375398758547f36357f8717edb4318e91eeea1b0c51b3#rd" rel="nofollow noopener">9. 3D Slicer教程之数据匹配（一） </a> 霍贵通</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484003&amp;idx=1&amp;sn=baf76f3bdb37c8ceb6faba34b018d87a&amp;chksm=eacc0851ddbb8147cd174da3c3d05ca375398758547f36357f8717edb4318e91eeea1b0c51b3#rd" rel="nofollow noopener">9. Data matching 3D Slicer教程之数据匹配（一） </a> 霍贵通</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484034&amp;idx=1&amp;sn=81c5e566cc58ede4a450c8c6c346d1b6&amp;chksm=eacc08b0ddbb81a6d148327eb32a69524df501276a55e2aa5131766022782f708cc376e8978f#rd" rel="nofollow noopener">10. 3Dslicer虚拟内镜在脑出血清除术演练中的应用 </a> 李珍珠</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484034&amp;idx=1&amp;sn=81c5e566cc58ede4a450c8c6c346d1b6&amp;chksm=eacc08b0ddbb81a6d148327eb32a69524df501276a55e2aa5131766022782f708cc376e8978f#rd" rel="nofollow noopener">10.Application of 3DSlicer Virtual Endoscope in Cerebral Hemorrhage 3Dslicer虚拟内镜在脑出血清除术演练中的应用 </a> 李珍珠</h4>
 <h4>
 <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484051&amp;idx=1&amp;sn=56ecbb57d2e14c8f95c2663cce6012fc&amp;chksm=eacc08a1ddbb81b7f3f65f0cf01ae8f6ab419c7d94e0fadef13ef7ac1ba4013a1ff63c0764fb#rd" rel="nofollow noopener">11. GyroGuide的使用方法 </a> 束旭俊</h4>
 <h4>
