@@ -30,7 +30,7 @@
 <h4>
 <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484190&amp;idx=1&amp;sn=4a08ee0b22892d76e89afe41a2fb96c8&amp;chksm=eacc092cddbb803a90fb8d15eaf001fbeb831b96431cdae4e737bcb699c6178108e9a64e5de1#rd" rel="nofollow noopener">16. 3DSlicer教程之去除背板（一） </a> 曹玉福</h4>
 <h4>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484218&amp;idx=1&amp;sn=afc9e6ec0ff79d916e12ef85fe6275f7&amp;chksm=eacc0908ddbb801e12bc1086128b406ebb70d1f1307be4732a40063abae049f17a3436d76106#rd" rel="nofollow noopener">17. 3DSlicer教程之去除背板（二） </a> 曹玉福</h4>
+<a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484218&amp;idx=1&amp;sn=afc9e6ec0ff79d916e12ef85fe6275f7&amp;chksm=eacc0908ddbb801e12bc1086128b406ebb70d1f1307be4732a40063abae049f17a3436d76106#rd" rel="nofollow noopener">17. Intracranial lesions localization 3DSlicer教程之去除背板（二） </a> 曹玉福</h4>
 <h4>
 <a href="https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&amp;mid=2247484258&amp;idx=1&amp;sn=410c7773f1d71c176476211a65147e4f&amp;chksm=eacc0950ddbb80469d2833599485a6711cb9cefcbb0dc4641df8bf0324743e10915d85c8b5cf#rd" rel="nofollow noopener">18. 手机App辅助颅内幕上病变的定位方法（进化版） </a> 束旭俊</h4>
 <h4>
